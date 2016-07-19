@@ -3,7 +3,7 @@ My practice on LeetCode with C++, Java or any other programming language
 
 ## Problems
 
-1. Sum of Two Integers                          C++实现
+1. Sum of Two Integers                                    C++实现
 2. Guess Number Higher or Lower                 C++实现了循环，Java实现了递归。
 3. Intersection of Two Arrays                   Java实现
 
