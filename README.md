@@ -10,4 +10,5 @@ My practice on LeetCode with C++, Java or any other programming language
 ## Diary
 ### 2016-7-17
   这是一个好的开始，希望能保持。
-
+### 2016-8-3
+  近来忙于学车，精力较少。
